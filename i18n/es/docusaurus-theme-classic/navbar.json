@@ -8,11 +8,11 @@
     "description": "Navbar item with label Wiki"
   },
   "item.label.Tutorials": {
-    "message": "Tutorials",
+    "message": "Tutoriales",
     "description": "Navbar item with label Tutorials"
   },
   "item.label.News": {
-    "message": "News",
+    "message": "Noticias",
     "description": "Navbar item with label News"
   }
 }
